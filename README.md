@@ -1,6 +1,6 @@
 # Hi, I'm Henil Modi 👋
 
-🎓 Engineering student interested in **Cybersecurity, Artificial Intelligence, and Software Development**.
+🎓 A student interested in **Cybersecurity, Artificial Intelligence, and Software Development**.
 
 I enjoy building practical tools and projects that help me understand how systems work, how they can be secured, and how intelligent systems can be developed.
 
@@ -72,15 +72,16 @@ These projects will be added to this profile soon.
 
 # 🛠 Technical Skills
 
-### Programming
+## 🛠 Languages & Tools
 
-* Python
+## 🛠 Languages & Tools
 
-### Concepts
-
-* Networking fundamentals
-* Web security basics
-* automation scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-orange?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Learning-purple?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-green?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Basics-yellow?style=for-the-badge)
 
 ---
 
