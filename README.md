@@ -1,23 +1,11 @@
 # 👋 Hi, I'm Henil Modi
 
-🎓 Engineering Student  
 🔐 Cybersecurity Enthusiast | 🤖 Artificial Intelligence Learner | 💻 Developer
 
 I am an engineering student passionate about **Artificial Intelligence, Cybersecurity, and secure software systems**.  
 I enjoy building practical tools and intelligent systems to explore how technologies work, how systems can be protected, and how machine learning models can solve real-world problems.
 
 My work focuses on **hands-on experimentation, practical implementations, and technical exploration** across both AI and cybersecurity domains.
-
----
-
-## 🔬 Research Interests
-
-• Machine Learning and Deep Learning  
-• Natural Language Processing  
-• Recommendation Systems  
-• Web Security and Vulnerability Analysis  
-• Network Security and Monitoring  
-• Secure Software Development  
 
 ---
 
@@ -31,7 +19,35 @@ https://github.com/henil-modi/ai-portfolio
 
 ---
 
+
+## 🔬 Research Interests
+
+• Machine Learning and Deep Learning  
+• Natural Language Processing  
+• Recommendation Systems  
+• Web Security and Vulnerability Analysis  
+• Network Security and Monitoring  
+• Secure Software Development  
+
+---
+
+
 ## 📌 Selected Projects
+
+
+### 🔐 Cybersecurity
+
+**Website Security Scanner**  
+Python-based automated tool that scans websites for security headers, subdomains, directories, and potential vulnerabilities.
+
+**Python Port Scanner**  
+Network scanning tool that identifies open ports on a target system using socket-based TCP connections.
+
+**Network Traffic Analyzer**  
+Network monitoring tool that captures and analyzes packet-level traffic to observe network behavior and protocol activity.
+
+---
+
 
 ### 🤖 Artificial Intelligence
 
@@ -46,18 +62,6 @@ Content-based recommendation engine that suggests similar movies using TF-IDF fe
 
 ---
 
-### 🔐 Cybersecurity
-
-**Website Security Scanner**  
-Python-based automated tool that scans websites for security headers, subdomains, directories, and potential vulnerabilities.
-
-**Python Port Scanner**  
-Network scanning tool that identifies open ports on a target system using socket-based TCP connections.
-
-**Network Traffic Analyzer**  
-Network monitoring tool that captures and analyzes packet-level traffic to observe network behavior and protocol activity.
-
----
 
 ## 📚 Currently Learning
 
